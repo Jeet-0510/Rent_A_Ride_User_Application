@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">vehicleApplication</string>
+    <string name="navigation_open">Open Navigation drawer</string>
+    <string name="navigation_close">Close Navigation drawer</string>
+    <string name="vehicle_rent_app">Vehicle Rent App</string>
+    <string name="profile">Profile</string>
+    <string name="services">Services</string>
+    <string name="bookings">Bookings</string>
+    <string name="log_out">Log Out</string>
+    <string name="profile_image">profile Image</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="bicycle">Bicycle</string>
+    <string name="scooter">Scooter</string>
+    <string name="bike">Bike</string>
+    <string name="car">Car</string>
+    <string name="banner1">Banner1</string>
+    <string name="banner2">banner2</string>
+
+
+    <string name="heading_1">Quick Search</string>
+    <string name="heading_2">Search your location</string>
+    <string name="heading_3">Booking &amp; Take Vehicle</string>
+    <string name="heading_4">Enjoy your ride</string>
+
+    //desc
+    <string name="desc_1">Are you searching a vehicle for rent? Do a Quick Search here</string>
+    <string name="desc_2">Search your location for pickup point</string>
+    <string name="desc_3">Book a vehicle on our app and Take a vehicle for your ride</string>
+    <string name="desc_4">Enjoy your ride!!! </string>
+
+    <string name="otp_verification">OTP Verification</string>
+    <string name="OTPText1">We will send you an One Time Password on this number</string>
+    <string name="enter_your_mobile_number">Enter your Mobile Number:</string>
+    <string name="_91">+91-</string>
+    <string name="_1234567890">1234567890</string>
+    <string name="enter_the_otp_sent_to">Enter the OTP sent to</string>
+    <string name="didn_t_receive_the_otp">Didn\'t receive the OTP?</string>
+    <string name="resend_otp">RESEND OTP</string>
+    <string name="get_otp">Get OTP</string>
+    <string name="login_with_mobile_number">Login with Mobile Number</string>
+    <string name="offers">Offers</string>
+    <string name="kyc">KYC</string>
+    <string name="about_us">About Us</string>
+    <string name="vehicle">Vehicle</string>
+    <string name="image">Image</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="phone_no">Phone No</string>
+    <string name="address">Address</string>
+    <string name="update">Update</string>
+    <string name="add_profile">Add Profile</string>
+
+</resources>

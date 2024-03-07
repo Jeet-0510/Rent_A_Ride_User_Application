@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/itmServicesUser"
+            android:icon="@drawable/vehicleservice"
+            android:title="@string/services" />
+
+        <item
+            android:id="@+id/itmBookingUser"
+            android:icon="@drawable/bookings"
+            android:title="@string/bookings" />
+
+        <item
+            android:id="@+id/itmOfferUser"
+            android:icon="@drawable/offer"
+            android:title="@string/offers" />
+
+        <item
+            android:id="@+id/itmKYCUser"
+            android:icon="@drawable/kyc"
+            android:title="@string/kyc" />
+
+    </group>
+
+    <item
+        android:id="@+id/itmAboutUsUser"
+        android:icon="@drawable/aboutus"
+        android:title="@string/about_us" />
+    <item
+        android:id="@+id/itmLogOutUser"
+        android:icon="@drawable/logout"
+        android:title="@string/log_out" />
+
+</menu>

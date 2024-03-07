@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item android:id="@+id/itmHomeUserBN"
+            android:icon="@drawable/home"
+            android:title="Home" />
+
+        <item android:id="@+id/itmBookingUserBN"
+            android:title="Bookings"
+            android:icon="@drawable/bookingsbn"/>
+
+        <item android:id="@+id/itmOfferUserBN"
+            android:title="Offers"
+            android:icon="@drawable/offer"/>
+
+        <item android:id="@+id/itmProfileUserBN"
+            android:title="Profile"
+            android:icon="@drawable/profilebn"/>
+    </group>
+</menu>

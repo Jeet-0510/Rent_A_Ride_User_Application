@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "222869217502",
+    "firebase_url": "https://vehicle-rent-969cd-default-rtdb.firebaseio.com",
+    "project_id": "vehicle-rent-969cd",
+    "storage_bucket": "vehicle-rent-969cd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:222869217502:android:10b056c330540693b4624f",
+        "android_client_info": {
+          "package_name": "com.example.vehicleapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "222869217502-upcgrcdobqufoga9ec4eem87glr17mhl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vehicleapplication",
+            "certificate_hash": "b8b23442959a5e402e775564f50d10f5bce66394"
+          }
+        },
+        {
+          "client_id": "222869217502-gi5v1km7ognffcltb48dpbc6jhsje689.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDCKdRGLaQ7jFo0vFMeXEdZBWY_KicQf8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "222869217502-gi5v1km7ognffcltb48dpbc6jhsje689.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
